@@ -5,3 +5,5 @@ order of the nodes in an array. It uses depth first search to get the
 topological order.
 
 It then calculates the longest path between any given node and all the nodes.
+
+Time Complexity: Time complexity of topological sorting is O(V+E)
